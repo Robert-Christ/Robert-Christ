@@ -1,9 +1,6 @@
-## Hi there 👋
-##<!--
-**Robert-Christ/Robert-Christ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##👋 Hi, 
+I am Christian
 
-Here are some ideas to get you started:
-👋 Hi, I am Christian
 As a dedicated and analytical Business Analyst, I bring a wealth of experience in bridging the gap between business needs and technological solutions. My passion lies in identifying and implementing strategies that drive business growth, optimize processes, and enhance customer satisfaction.
 
 Below are some projects have worked on
