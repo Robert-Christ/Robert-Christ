@@ -14,7 +14,6 @@
 
 ### MY RESUME : <!-- Icône GitHub --><a href="https://github.com/Robert-Christ"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25"></a>
 
-
 ### 📫 CONTACT ME
 
 <a href="https://www.linkedin.com/feed/">
