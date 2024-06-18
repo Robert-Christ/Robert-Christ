@@ -12,10 +12,7 @@
 
 ## TO FIND MORE ABOUT MY PROJECTS : <a href="https://public.tableau.com/app/profile/ro.cf/vizzes"><img src="https://img.icons8.com/ios-filled/50/000000/table.png" alt="Tableau Public" width="25" height="25"></a>
 
-### MY RESUME : <!-- Icône GitHub -->
-<a href="https://github.com/Robert-Christ)">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25">
-</a>
+### MY RESUME : <!-- Icône GitHub --><a href="https://github.com/Robert-Christ)"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25"></a>
 
 
 ### 📫 CONTACT ME
@@ -37,4 +34,23 @@
 <!-- Icône GitHub -->
 <a href="https://github.com/votreprofil">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25">
+</a>
+<!-- Icône SQL -->
+<a href="https://www.example.com/sql">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="25" height="25">
+</a>
+
+<!-- Icône Markdown -->
+<a href="https://www.example.com/markdown">
+    <img src="https://img.icons8.com/ios/50/000000/markdown.png" alt="Markdown" width="25" height="25">
+</a>
+
+<!-- Icône Tableau Public -->
+<a href="https://public.tableau.com">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" width="25" height="25">
+</a>
+
+<!-- Icône DAX -->
+<a href="https://www.example.com/dax">
+    <img src="https://img.icons8.com/fluency/48/000000/data-analytics.png" alt="DAX" width="25" height="25">
 </a>
