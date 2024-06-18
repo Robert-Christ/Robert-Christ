@@ -12,7 +12,7 @@
 
 ## TO FIND MORE ABOUT MY PROJECTS : <a href="https://public.tableau.com/app/profile/ro.cf/vizzes"><img src="https://img.icons8.com/ios-filled/50/000000/table.png" alt="Tableau Public" width="25" height="25"></a>
 
-### MY RESUME : <!-- Icône GitHub --><a href="https://github.com/Robert-Christ/Robert-Christ)"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25"></a>
+### MY RESUME : <!-- Icône GitHub --><a href="https://github.com/Robert-Christ"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="25" height="25"></a>
 
 
 ### 📫 CONTACT ME
