@@ -49,8 +49,3 @@
 <a href="https://public.tableau.com">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" width="25" height="25">
 </a>
-
-<!-- Icône DAX -->
-<a href="https://www.example.com/dax">
-    <img src="https://img.icons8.com/fluency/48/000000/data-analytics.png" alt="DAX" width="25" height="25">
-</a>
