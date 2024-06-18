@@ -9,8 +9,13 @@
 ## 🔭 Data Analyst at **Sanitorial** : I carried out data processing in order to monitor the project. I followed the framework described by the company
 ## 🔭 Data Analyst at **Les Logis de Paris** : I studied the evolution of real estate prices from 2017-2021 in Paris.I used machine learning to create a predictive model
 
-## TO FIND MORE ABOUT MY PROJECTS
- 
+
+## TO FIND MORE ABOUT MY PROJECTS 
+<a href="https://public.tableau.com/app/profile/ro.cf/vizzes">
+    <img src="https://img.icons8.com/ios-filled/50/000000/table.png" alt="Tableau Public" width="25" height="25">
+</a>
+
+
 ### 📫 CONTACT ME
 
 <a href="https://www.linkedin.com/feed/">
