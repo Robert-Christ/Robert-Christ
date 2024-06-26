@@ -1,7 +1,7 @@
 ### 👋 Hi, 
 ### I am Christian
 
-## As a dedicated and analytical Business Analyst, I bring a wealth of experience in bridging the gap between business needs and technological solutions. My passion lies in identifying and implementing strategies that drive business growth, optimize processes, and enhance customer satisfaction.
+## As a dedicated and Business Analyst, I bring a wealth of experience in bridging the gap between business needs and technological solutions. My passion lies in identifying and implementing strategies that drive business growth, optimize processes, and enhance customer satisfaction.
 
 ## Below are some projects have worked on:
 
