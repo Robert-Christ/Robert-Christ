@@ -1,11 +1,11 @@
-# Salut je suis Mame Diarra DABO !! 👋
+# Salut je suis Christian !! 👋
 
 - 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
-- 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
-- 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées en Big Data, Data Science et Analyse des Risques sous Python
-- 👯 Je suis à la recherche d'un stage de fin d'études afin de valider mon diplôme. Disponible dès mi_février
+- 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst 
+- 🎯 Actuellement 
+- 👯 Je suis à la recherche 
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
-- 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
+- 📫 Retrouvez-moi sur: https:
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
@@ -46,8 +46,8 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
 </p>
 
 ## Objectif: 
-* Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Frédéric) ;
-* Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Pauline ).
+* Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Mehdi) ;
+* Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Mehdi ).
 
 ## Compétences:
   - [x] Générer des graphiques adaptés aux types de données
