@@ -4,7 +4,7 @@
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst 
 - 🎯 Actuellement 
 - 👯 Je suis à la recherche 
-- 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
+- 💬 Vous pouvez m'écrire sur:
 - 📫 Retrouvez-moi sur: https:
 <!--
 - 🤔 I’m looking for help with ...
@@ -29,9 +29,9 @@ https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
 
-# [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+# [Visualisez les données avec Execel]//(CAS PRIMERO BANK)(https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
-Travailler sur le rapport mensuel des actions marketing de mon équipe.
+Determiner les raisons du départ des clients et proposer des plans d'actions.
 <!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
