@@ -42,7 +42,7 @@ Determiner les raisons du départ des clients et proposer des plans d'actions.
 https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
 --->
 <p align = "center">
- <img width="1000" height="300" src = "https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl="/>
+ <img width="1000" height="300" src = "[https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl=](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)"/>
 </p>
 
 ## Objectif: 
