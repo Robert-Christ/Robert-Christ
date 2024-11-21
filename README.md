@@ -42,20 +42,23 @@ Determiner les raisons du départ des clients et proposer des plans d'actions.
 https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
 --->
 <p align = "center">
- <img width="1000" height="300" src = "[https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl=](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)"/>
+ <img width="1000" height="300" src = "[[https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl=](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)"/>
 </p>
 
 ## Objectif: 
-* Préparer la présentation des chiffres clés généraux à partir des graphiques déjà générés (cf. e-mail de Mehdi) ;
-* Préparer le rapport des données spécifiques aux clients affiliés sur Excel à partir des données directement (cf. e-mail de Mehdi ).
+* Faire un rapport d'analyse sur le traitement des données  ;
+* Transformer les données en informations ;
+* Visualisez les données ;
+* Présentez les résultats au client .
 
 ## Compétences:
+  - [x] Nettoyer et transformer les données 
   - [x] Générer des graphiques adaptés aux types de données
-  - [x] Interpréter les informations provenant d'un dashboard
+  - [x] Analyser et Interpréter les informations provenant des graphes 
   - [x] Synthétiser des résultats à destination d'un client
 
 ## Outils utilisés:
-Excel, PowerPoint.
+Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
@@ -81,7 +84,7 @@ Faire la modification de la base de données permettant de collecter les transac
   - [x] Mettre à jour un catalogue de données
 
 ## Outils utilisés:
-Excel, Draw.io, Langage SQL, PowerPoint
+Excel,Langage SQL, PowerPoint
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_3_Data_Analyst
