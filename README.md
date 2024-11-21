@@ -55,7 +55,7 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
   - [x] Nettoyer et transformer les données 
   - [x] Générer des graphiques adaptés aux types de données
   - [x] Analyser et Interpréter les informations provenant des graphes 
-  - [x] Synthétiser des résultats à destination d'un client
+  - [x] Synthétiser les résultats à destination d'un client
 
 ## Outils utilisés:
 Excel, PowerPoint, PowerQuery.
@@ -63,7 +63,7 @@ Excel, PowerPoint, PowerQuery.
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
 
-# [Créez et utilisez une base de données immobilière avec SQL](https://github.com/MameDiarraDABO/Projet_3_Data_Analyst)
+# [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique:
 Faire la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
@@ -75,8 +75,11 @@ Faire la modification de la base de données permettant de collecter les transac
 * Modifier le schéma relationnel pour qu’il prenne en compte les nouvelles données;
 * Implémenter les tables dans la base de données;
 * Faire des requêtes pour extraire des informations.
+* Faire un état des lieux de la standardisation des tarifs
+* Synthétiser les résultats à destination d'un client
 
 ## Compétences:
+  - [x] Nettoyez et créer la base de données 
   - [x] Charger des données dans une base de données
   - [x] Créer des tables dans une base de données
   - [x] Créer le schéma d'une base de données
@@ -84,7 +87,7 @@ Faire la modification de la base de données permettant de collecter les transac
   - [x] Mettre à jour un catalogue de données
 
 ## Outils utilisés:
-Excel,Langage SQL, PowerPoint
+Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_3_Data_Analyst
