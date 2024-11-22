@@ -42,11 +42,11 @@ Determiner les raisons du départ des clients et proposer des plans d'actions.
 https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
 --->
 <p align = "center">
- <img width="1000" height="300" src = "[[https://i0.wp.com/www.marketing-pgc.com/wp-content/uploads/2015/12/banniere-e-commerce.gif?fit=1000%2C317&ssl=](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)](https://user.oc-static.com/upload/2022/09/12/16629736834969_image1.png)"/>
+ <img width="1000" height="300" src = "[])"/>
 </p>
 
 ## Objectif: 
-* Faire un rapport d'analyse sur le traitement des données  ;
+* Faire un rapport d'analyse sur le traitement des données marketing  ;
 * Transformer les données en informations ;
 * Visualisez les données ;
 * Présentez les résultats au client .
@@ -81,9 +81,9 @@ Faire la modification de la base de données permettant de collecter les transac
 
 ## Compétences:
   - [x] Nettoyez et créer la base de données 
-  - [x] Charger des données dans une base de données
-  - [x] Créer des tables dans une base de données
-  - [x] Créer le schéma d'une base de données
+  - [x] Charger des données dans une base de données marketing
+  - [x] Créer des tables dans une base de données marketing
+  - [x] Créer le schéma d'une base de données marketing
   - [x] Effectuer des requêtes SQL pour répondre à une problématique métier
   - [x] Mettre à jour un catalogue de données
 
@@ -94,7 +94,7 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 > Vous pouvez consulter les ressources de ce projet via ce lien: https:
 
 # [Collectez des données en respectant les normes RGPD ]()
-## Problématique:
+## Problématique: 
  Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL.
  Faire des recommandations sur le traitement de données.
 <p align = "center">
@@ -110,8 +110,8 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 ## Compétences: 
   - [x] Emettre des recommandations sur les régles de gestion à mettre en place
-  - [x] Mettre à disposition de l'équipe commerciale une extraction des données du CRM
-  - [x] Réaliser le nettoyage, le traitement et la transformation des données 
+  - [x] Mettre à disposition de l'équipe commerciale une extraction des données marketing du CRM
+  - [x] Réaliser le nettoyage, le traitement et la transformation des données marketing 
   - [x] Anonymiser les données du CRM
   - [x] Documenter le rapport d'analyse de toutes les étapes des opérations
   - [x] Préparer des données en garantissant le respect du procesus de qualité
@@ -122,7 +122,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 > Vous pouvez consulter le fichier excel de ce projet via ce lien:
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
-## Problématique:
+## Problématique:Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
 Rapprochement entre des bases de données. 
 <!--https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg -->
 <p align = "center">
@@ -130,34 +130,49 @@ Rapprochement entre des bases de données.
 </p>
 
 ## Objectif: 
-* Rapprocher deux exports ;
+* Traiter la base de donnée
+* Mettre à jour le dictionnaire des données
 * Le chiffre d’affaires par produit, ainsi que le total du chiffre d’affaire réalisé en ligne ;
-* La vérification des erreurs de saisie dans certains prix des produits ;
-* Effectuer une analyse sur cette variable afin de détecter des valeurs aberrantes. 
+* Calculer le Net Promoter Score;
+* Synthétiser les besoins des utilisateurs dans la base de données. 
 ## Compétences:
-  - [x] Réaliser une analyse univariée pour interpréter des données
-  - [x] Classifier différents types de données
-  - [x] Gérer les erreurs et les incohérences présentes sur des données stockées
+  - [x] charger les bases de données
+  - [x] Nettoyer et traiter la base de données
+  - [x] Mettre à jour les tables et les rendre accessible
+  - [x] Effectuer des requêtes simples
+  - [x] Effectuer des requêtes complexes
+  - [x] Rédiger et présenter un rapport à destination du client
 # Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+Excel, PowerQuery, Powerpoint, SQL, MySQL
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_5_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_032022.ipynb
+> https:
 
-# [Analysez les ventes d'une librairie avec Python]()
+# [Optimiser la gestion de stock d'une boutique en nettoyant ses données]()
 ## Problématique:
-Faire le point après deux ans d'exercice, pouvoir analyser ses points forts, ses points faibles, les comportements clients.
+Rapprochez des fichiers afin de créer un fichier unique afin d'analyser les données marketinng de la boutique de vin. Faire l'analyse univariée des dona nées marketing 
+.
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
- <img width="1000" height="300" src = "https://thumbs.dreamstime.com/b/librairie-de-clessence-%C3%A0-chongqing-86159883.jpg"/>
+ <img width="1000" height="300" src = ""/>
 </p>
 
 ## Objectif: 
-* Une analyse des différents indicateurs de vente ;
-* Une analyse plus ciblée sur les clients.
+* Analyses exploratoires des doneés ;
+* Rapprocher et fusionner les 4 fichiers fusionnés ;
+* Une analyse univariées du prix ;
+* Une analyse univariée du Chiffre d'affaire ;
+* De finir les actions à mettre en place ;
+* Présenter les résultats en réunion.
 ## Compétences:
-  - [x] Réaliser un test statistique
+  - [x] Importer les différentes librairies
+  - [x] Analyse exploratoire
+  - [x] Nettoyage et consolidation des données
+  - [x] Détecter les caractéristiques des produits
+  - [x] Création de Dataset
+  - [x] Création de graphes
+  - [x] Utilisation des méthodes statistiques
   - [x] Réaliser une analyse bivariée pour interpréter des données
   - [x] Analyser des séries temporelles
 ## Outils utilisés:
@@ -165,8 +180,8 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_6_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_042023.ipynb
-
+> https:
+> 
 # [Analysez des indicateurs de l'égalité femme-homme avec Knime]()
 ## Problématique:
 Automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes..
@@ -344,169 +359,8 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
-# [Analyse des données des jeux olympiques avec Power BI (Projet_Personnel)]()
-## Problématique:
-Faire une analyse du taux de participation des jeux olympiques sur le genre, le nombre de médaille par genre, les meilleurs athlètes, les pays avec le plus de médailles etc...
-<p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.7N1LVojzhyO-cpsLBnJkgAHaEK&pid=Api&P=0&h=180"/>
-</p>
-
-## Objectif: 
-* Définir les métriques à visualiser.
-* Création des graphiques.
-* Interactivité des graphiques aux utilisateurs pour naviguer puis analyser.
-## Compétences:
-- [x] Importation puis transformation des données
-- [x] Faire de la modélisation (relations entre les tables c'est à dire entre la table des faits et la table des dimensions)
-- [x] Mettre en place les filtres puis les renseigner
-- [x] Création des graphiques
-- [x] Enregister puis Publier
-## Outils utilisés:
-Power BI, power query, DAX
-
-> [!NOTE]
-> Vous pouvez consulter le lien de ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Jeux_Olympiques
-
-# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)]()
-## Problématique:
-Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manager.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.EeoUeCbKC9InK4Q7S_N5cgHaEw&pid=Api&P=0&h=180"/>
-</p>
-
-## Objectif: 
-* Faire une analyse avec les différentes indicateurs.
-* Réaliser différentes visualisations (graphiques) afin de répondre au mieux à la problématique..
-* Permettre aux utilisateurs de pouvoir naviguer puis analyser, voir les choses intéressantes dans le rapport avec les ventes par Manager.
-## Compétences:
-- [x] Chargement puis transformation des données
-- [x] Création de modèle de données
-- [x] Création d'une nouvelle table calendrier pour obtenir l'année fiscale
-- [x] Mettre en place les filtres puis les renseigner
-- [x] Insertion des graphiques
-- [x] Enregister puis Publier
-## Outils utilisés:
-Power BI, power query, DAX
-
-> [!NOTE]
-> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
 
 
-# [Création d'un Dashboard pour détecter les Brasseries et la production de Bière par Zone avec Power BI (Projet_Personnel)]()
-## Problématique:
-Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
-<p align = "center">
- <img width="1000" height="300" src = "https://www.plantes-et-sante.fr/images/articles/biere.jpg_720_1000_2"/>
-</p>
-
-## Objectif: 
-* Faire une analyse avec les différentes indicateurs.
-* Réaliser différentes graphiques
-* Interagir avec les filtres (aux utilisateurs).
-## Compétences:
-- [x] Chargement puis transformation des données
-- [x] Création de modèle de données
-- [x] Mettre en place les filtres puis les renseigner
-- [x] Insertions des graphiques
-- [x] Enregister puis Publier
-## Outils utilisés:
-Power BI, power query, DAX
-
-> [!NOTE]
-> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
-
-
-# [Analyse des listes de films et séries TV Netflix (Projet_Personnel en cours)]()
-## Problématique:
-Netflix est l'une des plateformes de streaming multimédia et vidéo les plus populaires avec plus de 8 000 films ou séries télévisées sont disponibles sur sa plateforme.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.Ff-_cUDbJOnQfpAU9fVLuQHaEO&pid=Api&P=0&h=180"/>
-</p>
-
-<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
-  --->
-## Objectif: 
-* Comprendre quel contenu est disponible dans différents pays
-* Identifier un contenu similaire en faisant correspondre des fonctionnalités textuelles
-* Analyse de réseau d'acteurs/réalisateurs et découverte d'informations intéressantes
-* Netflix se concentre-t-il davantage sur les émissions de télévision que sur les films ces dernières années ?
-
-## Compétences:
-- [x] Rédiger et présenter une méthodologie d'exploration et d'analyse des données
-- [x] Réaliser une analyse univariée pour interpréter des données
-- [x] Classifier différents types de données
-- [x] Gérer les erreurs et les incohérences présentes sur des données stockées
-## Outils utilisés:
-jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
-
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-/blob/main/Netflix.ipynb
-
-
-# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)]()
-## Problématique:
-Exploiter et analyser mes données avec les principales informations de notre réseau LinkedIn  .
-<p align = "center">
- <img width="1000" height="300" src = "https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/overlay/background-image/"/>
-</p>
-
-## Objectif: 
-* Faire une analyse avec les différentes informations des données.
-* Réaliser différentes graphiques pour visualiser ces données
-
-## Compétences:
-- [x] Chargement puis transformation des données
-- [x] Création de modèle de données
-- [x] Création de nouvelles mesures
-- [x] Insertions des graphiques
-- [x] Enregister puis Publier
-## Outils utilisés:
-Power BI, power query, DAX
-
-> [!NOTE]
-> Vous pouvez consulter le rapportvde ce projet au format PDF via ce lien:
-> https://github.com/MameDiarraDABO/Dashboard_LinkedIn
- 
-
-# [Prédiction des offres d'emploi réelles/fausses (Projet_Personnel)](en cours)
-## Problématique:
-Créez un modèle de classification afin de prédire les descriptions de postes frauduleuses ou réelles.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.5d8HD9TDKtU1ap_r__-MpQHaEK&pid=Api&P=0&h=180"/>
-</p>
-
-## Objectif: 
-* Créez un modèle de classification qui utilise des fonctionnalités de données textuelles et des méta-fonctionnalités et prédisez quelles descriptions de poste sont frauduleuses ou réelles.
-* Identifier les traits/caractéristiques clés (mots, entités, phrases) des descriptions de poste qui sont de nature frauduleuse.
-* Exécutez un modèle d’intégration contextuelle pour identifier les descriptions de poste les plus similaires.
-* Effectuer une analyse exploratoire des données sur l’ensemble de données pour identifier des informations intéressantes à partir de cet ensemble de données.
-
-
-## Compétences:
-
-## Outils utilisés:
-
-
-# [Analyse de données sur l'énergie nucléaire(Projet_Personnel)](en cours)
-## Problématique:
-L’énergie nucléaire est un sujet crucial à l’heure où les pays du monde entier cherchent à décarboner leurs réseaux électriques et à lutter contre le changement climatique. Dans le même temps, les préoccupations concernant la sécurité, l’élimination des déchets et la prolifération des armes suscitent un débat permanent sur le rôle que le nucléaire devrait jouer dans la transition énergétique.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse4.mm.bing.net/th?id=OIP.2ApEQo2DIgcwUo70hwaZnwHaDL&pid=Api&P=0&h=180"/>
-</p>
-
-## Objectif: 
-* Examen des tendances en matière de production et de capacité d’énergie nucléaire au fil du temps et selon les régions géographiques
-* Comparaison du bilan de sécurité du nucléaire avec celui des autres sources d'énergie
-* Analyser la production et les prix de l'uranium pour comprendre la dynamique du combustible nucléaire
-* Identifier les principaux exploitants de centrales nucléaires et leurs sociétés mères
-* Évaluer le rôle actuel et potentiel futur du nucléaire dans le mix électrique de divers pays et régions
-
-
-## Compétences:
 
 ## Outils utilisés:
 
