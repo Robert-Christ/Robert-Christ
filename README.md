@@ -29,7 +29,7 @@ https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
 
-# [Visualisez les données avec Execel]//(CAS PRIMERO BANK)(https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
+# [Visualisez les données avec Execel]//(CAS PRIMERO BANK)()
 ## Problématique: 
 Determiner les raisons du départ des clients et proposer des plans d'actions.
 <!--
@@ -145,7 +145,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_5_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_032022.ipynb
 
-# [Analysez les ventes d'une librairie avec Python](https://github.com/MameDiarraDABO/Projet_6_Data_Analyst)
+# [Analysez les ventes d'une librairie avec Python]()
 ## Problématique:
 Faire le point après deux ans d'exercice, pouvoir analyser ses points forts, ses points faibles, les comportements clients.
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
@@ -167,7 +167,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_6_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_042023.ipynb
 
-# [Analysez des indicateurs de l'égalité femme-homme avec Knime](https://github.com/MameDiarraDABO/Projet_7_Data_Analyst)
+# [Analysez des indicateurs de l'égalité femme-homme avec Knime]()
 ## Problématique:
 Automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes..
 
@@ -185,7 +185,7 @@ Automatiser la création d’un rapport diagnostique sur l’égalité professio
 ## Outils utilisés:
 Excel, Python, KNIME
 
-# [Faites une étude sur l'eau potable](https://github.com/MameDiarraDABO/Projet_8_Data_Analyst)
+# [Faites une étude sur l'eau potable]()
 ## Problématique:
 En mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 * DWFA présente 3 domaines d’expertises :
@@ -216,7 +216,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau De
 > Dashbord d'étude sur l'eau potable: 
 > https://public.tableau.com/app/profile/mame.diarra.dabo/viz/Dashboard-DWFA/HistoireDWFA
 
-# [Produisez une étude de marché avec Python](https://github.com/MameDiarraDABO/Projet_9_Data_Analyst)
+# [Produisez une étude de marché avec Python]()
 ## Problématique:
 Proposer une première analyse des groupements de pays que l’on peut cibler pour exporter nos poulets.
 <p align = "center">
@@ -239,7 +239,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_1_preparation_nettoyage_analyse_exploratoire_082023.ipynb
 > https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_2_clustering_visualisations_082023.ipynb
 
-# [Détectez des faux billets avec Python](https://github.com/MameDiarraDABO/Projet_10_Data_Analyst)
+# [Détectez des faux billets avec Python]()
 ## Problématique:
 Mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets.
 <p align = "center">
@@ -264,7 +264,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
 
-# [Faire une prédiction sur les ventes (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Ventes)
+# [Faire une prédiction sur les ventes (Projet_Personnel)]()
 ## Problématique:
 Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
 <p align = "center">
@@ -290,7 +290,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
 
 
-# [Détection de fraude par carte de crédit (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Fraude_Carte_Credit)
+# [Détection de fraude par carte de crédit (Projet_Personnel)]()
 ## Problématique:
 Une modélisation qui soit en mesure de reconnaître les transactions frauduleuses par carte de crédit afin que les clients ne soient pas facturés pour des articles qu'ils n'ont pas achetés par les sociétés émettrices de cartes de crédit.
 <p align = "center">
@@ -323,7 +323,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Projet_Personnel_Fraude_Carte_Credit/blob/main/Detection_fraude_carte.ipynb
 
-# [Prédiction de la note d'une application PlayStore (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+# [Prédiction de la note d'une application PlayStore (Projet_Personnel)]()
 ## Problématique:
 Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
@@ -344,7 +344,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
 
-# [Analyse des données des jeux olympiques avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist)
+# [Analyse des données des jeux olympiques avec Power BI (Projet_Personnel)]()
 ## Problématique:
 Faire une analyse du taux de participation des jeux olympiques sur le genre, le nombre de médaille par genre, les meilleurs athlètes, les pays avec le plus de médailles etc...
 <p align = "center">
@@ -368,7 +368,7 @@ Power BI, power query, DAX
 > Vous pouvez consulter le lien de ce projet au format PDF via ce lien:
 > https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Jeux_Olympiques
 
-# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager)
+# [Création d'un rapport pour analyser les ventes par Manager dans une boite avec Power BI (Projet_Personnel)]()
 ## Problématique:
 Réaliser un rapport avec Power BI pour évaluer les ventes réaliser par Manager.
 <p align = "center">
@@ -394,7 +394,7 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Rapport_Ventes_Manager
 
 
-# [Création d'un Dashboard pour détecter les Brasseries et la production de Bière par Zone avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Projet_Personnel_Dashboard_Bieres_artisanales)
+# [Création d'un Dashboard pour détecter les Brasseries et la production de Bière par Zone avec Power BI (Projet_Personnel)]()
 ## Problématique:
 Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
 <p align = "center">
@@ -419,7 +419,7 @@ Power BI, power query, DAX
 > https://github.com/MameDiarraDABO/Projet_Personnel_Dashbord_Bières_artisanales
 
 
-# [Analyse des listes de films et séries TV Netflix (Projet_Personnel en cours)](https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-)
+# [Analyse des listes de films et séries TV Netflix (Projet_Personnel en cours)]()
 ## Problématique:
 Netflix est l'une des plateformes de streaming multimédia et vidéo les plus populaires avec plus de 8 000 films ou séries télévisées sont disponibles sur sa plateforme.
 <p align = "center">
@@ -447,7 +447,7 @@ jupyterLab, Python, pandas, numpy, seaborn, matplotlib, algorithmes de machine l
 > https://github.com/MameDiarraDABO/NETFLIX-Plateformes-Projet_Personnel-/blob/main/Netflix.ipynb
 
 
-# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)](https://github.com/MameDiarraDABO/Dashboard_LinkedIn)
+# [Dashboard pour analyser ses données LinkedIn avec Power BI (Projet_Personnel)]()
 ## Problématique:
 Exploiter et analyser mes données avec les principales informations de notre réseau LinkedIn  .
 <p align = "center">
