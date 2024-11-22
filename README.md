@@ -95,8 +95,8 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 # [Collectez des données en respectant les normes RGPD ]()
 ## Problématique:
-Rejoingnant une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO).C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ».
-Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
+ Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL.
+ Faire des recommandations sur le traitement de données.
 <p align = "center">
  <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
 </p>
@@ -113,14 +113,15 @@ Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutr
   - [x] Mettre à disposition de l'équipe commerciale une extraction des données du CRM
   - [x] Réaliser le nettoyage, le traitement et la transformation des données 
   - [x] Anonymiser les données du CRM
-  - [x] Documenter le rapport d'analyse de toutes les étapes des opérations 
+  - [x] Documenter le rapport d'analyse de toutes les étapes des opérations
+  - [x] Préparer des données en garantissant le respect du procesus de qualité
 ## Outils utilisés:
 Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
 > [!NOTE]
 > Vous pouvez consulter le fichier excel de ce projet via ce lien:
 
-# [Optimisez la gestion des données d'une boutique avec Python](https://github.com/MameDiarraDABO/Projet_5_Data_Analyst)
+# [Interrogez une base de données pour suivre la satisfaction client ]()
 ## Problématique:
 Rapprochement entre des bases de données. 
 <!--https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg -->
