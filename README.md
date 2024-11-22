@@ -94,9 +94,8 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 > Vous pouvez consulter les ressources de ce projet via ce lien: https:
 
 # [Collectez des données en respectant les normes RGPD ]()
-## Problématique: 
- Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL.
- Faire des recommandations sur le traitement de données.
+## Problématique:  Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL. Faire des recommandations sur le traitement de données
+ 
 <p align = "center">
  <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
 </p>
@@ -122,11 +121,11 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 > Vous pouvez consulter le fichier excel de ce projet via ce lien:
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
-## Problématique:Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
+## Problématique: Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
 Rapprochement entre des bases de données. 
 <!--https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg -->
 <p align = "center">
- <img width="1000" height="300" src = "https://boutique.vignoblesk.com/includes/images/desktop/Silder/Slide01.jpg"/>
+ <img width="1000" height="300" src = "https:"/>
 </p>
 
 ## Objectif: 
@@ -150,9 +149,8 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL
 > https:
 
 # [Optimiser la gestion de stock d'une boutique en nettoyant ses données]()
-## Problématique:
-Rapprochez des fichiers afin de créer un fichier unique afin d'analyser les données marketinng de la boutique de vin. Faire l'analyse univariée des dona nées marketing 
-.
+## Problématique: Rapprochez des fichiers afin de créer un fichier unique afin d'analyser les données marketinng de la boutique de vin. Faire l'analyse univariée des données marketing
+
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
  <img width="1000" height="300" src = ""/>
