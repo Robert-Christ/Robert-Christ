@@ -55,7 +55,7 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
   - [x] Nettoyer et transformer les données 
   - [x] Générer des graphiques adaptés aux types de données
   - [x] Analyser et Interpréter les informations provenant des graphes 
-  - [x] Synthétiser les résultats à destination d'un client
+  - [x] Synthétiser et présenter les résultats à destination d'un client
 
 ## Outils utilisés:
 Excel, PowerPoint, PowerQuery.
@@ -65,7 +65,7 @@ Excel, PowerPoint, PowerQuery.
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique:
-Faire la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Utiliser ensuite cette base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
+Faire la modification de la base de données permettant de collecter les transactions bancaire en France. Faire un état des lieux des causes du départ des clients. analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
  <img width="1000" height="300" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
 </p>
@@ -75,8 +75,9 @@ Faire la modification de la base de données permettant de collecter les transac
 * Modifier le schéma relationnel pour qu’il prenne en compte les nouvelles données;
 * Implémenter les tables dans la base de données;
 * Faire des requêtes pour extraire des informations.
-* Faire un état des lieux de la standardisation des tarifs
-* Synthétiser les résultats à destination d'un client
+* Faire des analyses des requêtes
+* Faire la rédaction des résultats et des requêtes associées sous format pdf
+* Synthétiser et présenter les résultats à destination d'un client
 
 ## Compétences:
   - [x] Nettoyez et créer la base de données 
@@ -90,9 +91,9 @@ Faire la modification de la base de données permettant de collecter les transac
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_3_Data_Analyst
+> Vous pouvez consulter les ressources de ce projet via ce lien: https:
 
-# [Réalisez une étude de santé publique avec Python](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
+# [Collectez des données en respectant les normes RGPD ]()
 ## Problématique:
 Rejoingnant une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO).C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ».
 Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
@@ -101,23 +102,23 @@ Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutr
 </p>
 
 ## Objectif: 
-* La proportion de personnes en état de sous-nutrition ;
-* Le nombre théorique de personnes qui pourraient être nourries à partir de la disponibilité alimentaire mondiale ;
-* La disponibilité alimentaire des produits végétaux ;
-* Calculer des proportions à partir de la disponibilité intérieure.
-* les pays pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017;
-* ceux qui ont le plus bénéficié d’aide depuis 2013;
-* ceux ayant le plus/le moins de disponibilité/habitant;
-* Toutes les infos que je trouverais utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
+* Définir le cadre en respectant les régles du RGPD
+* Récupérer les données
+* Néttoyage du jeu de données
+* Documenter le traitement des données
+* Rédiger les préconisations à destination de la direction
+
 ## Compétences: 
-  - [x] Rédiger et présenter une méthodologie d'exploration et d'analyse des données
-  - [x] Manipuler des DataFrames
-  - [x] Utiliser des librairies spécialisées pour les traitements data
+  - [x] Emettre des recommandations sur les régles de gestion à mettre en place
+  - [x] Mettre à disposition de l'équipe commerciale une extraction des données du CRM
+  - [x] Réaliser le nettoyage, le traitement et la transformation des données 
+  - [x] Anonymiser les données du CRM
+  - [x] Documenter le rapport d'analyse de toutes les étapes des opérations 
 ## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
+> Vous pouvez consulter le fichier excel de ce projet via ce lien:
 
 # [Optimisez la gestion des données d'une boutique avec Python](https://github.com/MameDiarraDABO/Projet_5_Data_Analyst)
 ## Problématique:
