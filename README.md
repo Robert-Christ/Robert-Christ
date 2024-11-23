@@ -63,7 +63,7 @@ Excel, PowerPoint, PowerQuery.
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
-## Problématique: Faire la modification de la base de données permettant de collecter les transactions bancaire en France. Faire un état des lieux des causes du départ des clients. Analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
+## Problématique: .
 <p align = "center">
  <img width="1000" height="300" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
 </p>
