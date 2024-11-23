@@ -30,8 +30,7 @@ https://github.com/Juuutran/Juuutran
 --->
 
 # [Visualisez les données avec Execel]//(CAS PRIMERO BANK)()
-## Problématique: 
-Determiner les raisons du départ des clients et proposer des plans d'actions.
+## Problématique: Déterminer les raisons du départ des clients. Génerer des graphes afin d'expliquer et justifier le choix des préconisations.
 <!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
 --->
@@ -64,8 +63,7 @@ Excel, PowerPoint, PowerQuery.
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
-## Problématique:
-Faire la modification de la base de données permettant de collecter les transactions bancaire en France. Faire un état des lieux des causes du départ des clients. analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
+## Problématique: Faire la modification de la base de données permettant de collecter les transactions bancaire en France. Faire un état des lieux des causes du départ des clients. Analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 <p align = "center">
  <img width="1000" height="300" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
 </p>
@@ -149,7 +147,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL
 > https:
 
 # [Optimiser la gestion de stock d'une boutique en nettoyant ses données]()
-## Problématique: Rapprochez des fichiers afin de créer un fichier unique afin d'analyser les données marketinng de la boutique de vin. Faire l'analyse univariée des données marketing
+## Problématique: Rapprocher des fichiers afin de créer un fichier unique afin d'analyser les données marketing de la boutique de vin. Faire l'analyse univariée des données marketing. Générer des graphes lisibles pour aider à la prise de décision
 
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
@@ -185,7 +183,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 
 <p align = "center">
- <img width="1000" height="300" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
+ <img width="1000" height="300" src = ""/>
 </p>
 
 ## Objectif: 
@@ -202,151 +200,13 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 - [x] Créer le tableau de bord avec les différentes restrictions
 - [x] Calculer des KPI  
 - [x] Créer des alertes pour les différents utilisateurs
-- [x] Créer des visualisations des influenceurs clés. 
+- [x] Créer des visualisations des influenceurs clés.
+- [x] Télecharger les différentes extentions 
 ## Outils utilisés:
 Excel, PowerBi, Dax, PowerQuerry, 
 
-# [Faites une étude sur l'eau potable]()
-## Problématique:
-En mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
-* DWFA présente 3 domaines d’expertises :
-   * Création de services d’accès à l’eau potable ;
-   * Modernisation de services d’accès à l’eau déjà existants ;
-   * Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau.
-
-Une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
-Ces nouveaux financements, s’ils sont accordés par le bailleur, pourront permettre d’investir dans un des domaines d’expertise dans un pays qui n’est pas encore déterminé.
-
-<p align = "center">
- <img width="1000" height="300" src = "https://www.encyclopedie-environnement.org/app/uploads/2017/10/eau-potable_couv_eau-verre.jpg"/>
-</p>
-
-## Objectif: 
-* Présentation d’un Blueprint avec les indicateurs pertinents  sélectionnées relatifs aux 3 domaines d’expertise;
-* Présentation d’un Mockup avec 3 vues différentes;
-* Création d’un tableau de bord avec Tableau Software.
-## Compétences:
-- [x] Analyser un besoin client pour formuler des questions analytiques
-- [x] Créer un tableau de bord répondant à des questions analytiques
-- [x] Générer des graphiques adaptés aux types de données
-- [x] Synthétiser des résultats à destination d'un client
-## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Tableau Desktop, Powerpoint
-
-> [!IMPORTANT]
-> Dashbord d'étude sur l'eau potable: 
-> https://public.tableau.com/app/profile/mame.diarra.dabo/viz/Dashboard-DWFA/HistoireDWFA
-
-# [Produisez une étude de marché avec Python]()
-## Problématique:
-Proposer une première analyse des groupements de pays que l’on peut cibler pour exporter nos poulets.
-<p align = "center">
- <img width="1000" height="300" src = "https://blog.gastronomeprofessionnels.com/wp-content/uploads/2023/01/filiere-avicole.png"/>
-</p>
-
-## Objectif: 
-* Tester la classification ascendante hiérarchique, avec un dendrogramme comme visualisation ;
-* Utiliser la méthode des k-means, afin d’affiner l’analyse ;
-* Comparer les résultats des deux méthodes de clustering ;
-* Réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
-## Compétences:
-- [x] Explorer des données pour synthétiser des variables
-- [x] Effectuer un clustering simple
-## Outils utilisés: 
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
-
-> [!NOTE]
-> Vous pouvez consulter les notebooks de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_1_preparation_nettoyage_analyse_exploratoire_082023.ipynb
-> https://github.com/MameDiarraDABO/Projet_9_Data_Analyst/blob/main/DABO_Mame_Diarra_2_clustering_visualisations_082023.ipynb
-
-# [Détectez des faux billets avec Python]()
-## Problématique:
-Mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets.
-<p align = "center">
- <img width="1000" height="300" src = "https://img.freepik.com/photos-premium/faux-billet-dollar-americain-lumiere-uv_213438-1621.jpg"/>
-</p>
-
-<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
-  --->
-## Objectif: 
-* Voir les traitements et analyses réalisés en amont;
-* Les différentes pistes explorées pour la construction de l’algorithme;
-* Ainsi que le modèle final retenu.
-## Compétences:
-- [x] Réaliser une régression logistique
-- [x] Opérer des classifications automatiques pour partitionner les données
-- [x] Réaliser une analyse prédictive
-- [x] Réaliser une régression linéaire
-## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
-
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_10_Data_Analyst/blob/main/P10_Notebook.ipynb
-
-# [Faire une prédiction sur les ventes (Projet_Personnel)]()
-## Problématique:
-Mettre en place une modélisation capable de prédire les ventes d'une supermarché avec la croissance et la concurrence dans les villes peuplées.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.sV6dTT1_zeWhqzUqu6po2QHaD4&pid=Api&P=0&h=180"/>
-</p>
-
-<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
-  --->
-
-  <!--lien projet: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales--->
-## Objectif: 
-* Réaliser une courte analyse exploratoire.
-* Tester différents modèles de prédiction afin de répondre au mieux à la problématique..
-## Compétences:
-- [x] Évaluer les performances d’un modèle d'apprentissage supervisé
-- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
-- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
-## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
-
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Ventes/blob/main/Notebook_ventes_en%20supermarch%C3%A9.ipynb
-
-
-# [Détection de fraude par carte de crédit (Projet_Personnel)]()
-## Problématique:
-Une modélisation qui soit en mesure de reconnaître les transactions frauduleuses par carte de crédit afin que les clients ne soient pas facturés pour des articles qu'ils n'ont pas achetés par les sociétés émettrices de cartes de crédit.
-<p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.YNixgzOEeZ34ylHaLKQ0UQHaC5&pid=Api&P=0&h=180"/>
-</p>
-
-<!--
-<p align = "center">
- <img width="1000" height="300" src = "https://tse1.mm.bing.net/th?id=OIP.SJE3CAC6bEcAOzSdxEckLwHaEK&pid=Api&P=0&h=180"/>
-</p>
---->
-
-<!--"https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/vdn_864w/2019/07/26/node_617925/40418135/public/2019/07/26/B9720384809Z.1_20190726115156_000%2BGJ4E4VGE1.1-0.jpg?itok=2WDP2sp_1564134751"
-  --->
-
-  <!--lien projet: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud--->
-## Objectif: 
-* Travailler uniquement avec des variables d'entrée numériques qui sont le résultat d'une transformation PCA.
-* Réaliser une analyse exploratoire des données non transformées par le PCA.
-* Travailler avec des données déséquilibrés de classe.
-## Compétences:
-- [x] Tester différents modèles d'apprentissage supervisé automatique pour la détection de fraude par carte de crédit (sur des données déséquilibrées).
-- [x] Évaluer les performances d’un modèle d'apprentissage (sur des données déséquilibrées) avec une métrique adapté au problème métier.
-- [x] Passer au technique de rééchantillonnage des données (classe cible)
-- [x] Réévaluer les performances d’un modèle d'apprentissage (sur des données équilibrées après rééchantillonnage)
-## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
-
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_Personnel_Fraude_Carte_Credit/blob/main/Detection_fraude_carte.ipynb
-
 # [Prédiction de la note d'une application PlayStore (Projet_Personnel)]()
-## Problématique:
-Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
  <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.b9gey54oUed6ehNgaJ2pUAAAAA&pid=Api&P=0&h=180"/>
 </p>
