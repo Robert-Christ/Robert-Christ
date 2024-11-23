@@ -180,23 +180,31 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https:
 > 
-# [Analysez des indicateurs de l'égalité femme-homme avec Knime]()
-## Problématique:
-Automatiser la création d’un rapport diagnostique sur l’égalité professionnelle femmes hommes..
+# [Créer un tableau de dynamique avec Power Bi pour visualiser l'avancement de projets]()
+## Problématique: Faciliciter le suivis des différents projets en traitant les données selon le Canevas Strategy. Rendre les chiffres clés visibles afin de premettre le bon suivis des projets. 
+
 
 <p align = "center">
  <img width="1000" height="300" src = "https://www.sygnatures.com/app/uploads/2022/03/Parite-hommes-femmes-france-suisse-1.jpg"/>
 </p>
 
 ## Objectif: 
-* Création d’un workflow avec le logiciel KNIME qui crée les graphiques du diagnostiques  ;
-* Sauvegarder un fichier .csv prêt pour être utilisé dans nos futures analyses via Tableau Software.
+* Analyser et préparer les données
+* Réaliser des analyses croisées
+* Réaliser le tableau de bord afin de suivre les différentes performance des projets
+* Rédiger le product Strategy Canvas
+* Réaliser le model étoile afin de relier les différentes tables
+* Limiter l'accés aux données stratégiques du projet selon le niveau d'habilitation
 ## Compétences:
-- [x] Collecter des données en respectant le RGPD
-- [x] Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
-- [x] Transférer des données vers une zone de préparation
+- [x] Charger les données dans le logiciel
+- [x] Faire l'extraction, la transformation et le traitement de données
+- [x] Mettre à jour les tables
+- [x] Créer le tableau de bord avec les différentes restrictions
+- [x] Calculer des KPI  
+- [x] Créer des alertes pour les différents utilisateurs
+- [x] Créer des visualisations des influenceurs clés. 
 ## Outils utilisés:
-Excel, Python, KNIME
+Excel, PowerBi, Dax, PowerQuerry, 
 
 # [Faites une étude sur l'eau potable]()
 ## Problématique:
