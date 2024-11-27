@@ -99,7 +99,7 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 ## Problématique:  Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL. Faire des recommandations sur le traitement de données
  
 <p align = "center">
- <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD"/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/rgpd_4_etapes.jpg"/>
 </p>
 
 ## Objectif: 
