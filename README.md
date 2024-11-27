@@ -31,18 +31,11 @@ https://github.com/Juuutran/Juuutran
 
 # [Visualisez les données avec Execel]//(CAS PRIMERO BANK)() 
 ## Problématique: Déterminer les raisons du départ des clients. Génerer des graphes afin d'expliquer et justifier le choix des préconisations.
-<!--
-![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
---->
-<!--
-<p align = "center">
- <img width="1000" height="300" src = "https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d8"/>
-</p>
-https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
---->
+
 <p align = "center">
  <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG"/>
 </p>
+
 ## Objectif: 
 * Faire un rapport d'analyse sur le traitement des données marketing  ;
 * Transformer les données en informations ;
