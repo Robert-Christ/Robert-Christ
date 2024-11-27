@@ -61,8 +61,9 @@ Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisation%20de%20donn%C3%A9es/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf
- #### Les autres fichiers qui composent le projet
-https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisation%20de%20donn%C3%A9es
+ ## Les autres fichiers qui composent le projet
+ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisation%20de%20donn%C3%A9es
+
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
