@@ -58,7 +58,6 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
 
 ## Outils utilisés:
 Excel, PowerPoint, PowerQuery.
-https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG?raw=true
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
