@@ -29,7 +29,7 @@ https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
 
-# [Visualisez les données avec Execel]//(CAS PRIMERO BANK)()
+# [Visualisez les données avec Execel]//(CAS PRIMERO BANK)() 
 ## Problématique: Déterminer les raisons du départ des clients. Génerer des graphes afin d'expliquer et justifier le choix des préconisations.
 <!--
 ![ventes_e_commerce](https://github.com/MameDiarraDABO/MameDiarraDABO/assets/90385644/bfa1dc71-5b08-455e-80c3-ded00c011d87)
@@ -65,7 +65,7 @@ Excel, PowerPoint, PowerQuery.
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
 <p align = "center">
- <img width="1000" height="300" src = "https://media.istockphoto.com/id/1480633240/fr/photo/centre-de-traitement-et-de-stockage-de-donn%C3%A9es-salle-des-serveurs.webp?b=1&s=170667a&w=0&k=20&c=hJWYeU220JDWZftDSbFDhDPjSxPa6S2tjtILHyC7V-A="/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/t%C3%A9l%C3%A9chargement.jpg?raw=true"/>
 </p>
 
 ## Mission: 
