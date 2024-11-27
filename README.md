@@ -60,7 +60,7 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
 Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: VISUALISEZ LES DONNEES AVEC EXCEL.pdf
+> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEL.pdf](https://github.com/Robert-Christ/Robert-Christ/blob/main/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf)
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
