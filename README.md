@@ -65,10 +65,10 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
-<p align = "center">
- <img width="1000" height="300" src = https://github.com/Robert-Christ/Robert-Christ/blob/main/16645532298674_Screenshot%202022-09-30%20at%2017.52.17.png"[])"/>
-</p>
 
+<p align = "center">
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/16645532298674_Screenshot%202022-09-30%20at%2017.52.17.png"/>
+</p>
 
 ## Mission: 
 * Préparer Le dictionnaire des données en respectant le Template ;
