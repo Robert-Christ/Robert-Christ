@@ -122,7 +122,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 Rapprochement entre des bases de données. 
 <!--https://img-0.journaldunet.com/cg8V0H1_mE6ag-1cWOvCeCcBdmg=/450x/smart/8d7d9c4cbc544909a45b22a27de106dd/ccmcms-jdn/24003441.jpg -->
 <p align = "center">
- <img width="1000" height="300" src = "https:"/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20SQL%20pour%20suivre%20la%20satisfaction%20client/16624571026788_P5_BestMarket%20(1).png"/>
 </p>
 
 ## Objectif: 
