@@ -60,7 +60,7 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
 Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_2_Data_Analyst
+> Vous pouvez consulter les ressources de ce projet via ce lien: VISUALISEZ LES DONNEES AVEC EXCEL.pdf
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
