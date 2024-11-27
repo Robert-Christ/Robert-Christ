@@ -91,15 +91,15 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/Pr%C3%A9senation_Juin%202023.pdf
->
-> ## Autres données du fichier https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
+>## Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
+
 
 # [Collectez des données en respectant les normes RGPD ]()
 ## Problématique:  Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL. Faire des recommandations sur le traitement de données
  
 <p align = "center">
- <img width="1000" height="300" src = "https://[www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11](https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/rgpd_4_etapes.jpg)"/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD"/>
 </p>
 
 ## Objectif: 
@@ -122,7 +122,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 > [!NOTE]
 > Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
 >
-> ## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD
+## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
 ## Problématique: Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
