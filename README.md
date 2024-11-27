@@ -41,9 +41,8 @@ https://github.com/Juuutran/Juuutran
 https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-1080x620.jpg
 --->
 <p align = "center">
- <img width="1000" height="300" src = https://https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG[])"/>
+ <img width="1000" height="300" src = "https:https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG/>
 </p>
-
 ## Objectif: 
 * Faire un rapport d'analyse sur le traitement des données marketing  ;
 * Transformer les données en informations ;
