@@ -60,15 +60,14 @@ https://www.strategemarketing.com/wp-content/uploads/2021/04/ecommerce-shopping-
 Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisation%20de%20donn%C3%A9es/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf
+> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisez%20les%20donn%C3%A9es%20Excel/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf
  ## Les autres fichiers qui composent le projet
- https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisation%20de%20donn%C3%A9es
-
+https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn%C3%A9es%20Excel
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
 ## Problématique: .
 <p align = "center">
- <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/t%C3%A9l%C3%A9chargement.jpg?raw=true"/>
+ <img width="1000" height="300" src = "github.com/Robert-Christ/Robert-Christ/blob/main/16645532298674_Screenshot%202022-09-30%20at%2017.52.17.png"/>
 </p>
 
 ## Mission: 
@@ -92,13 +91,15 @@ Excel, PowerPoint, PowerQuery.
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https:
+> Vous pouvez consulter les ressources de ce projet via ce lien: https: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/Pr%C3%A9senation_Juin%202023.pdf
+>
+> ## Autres données du fichier https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023
 
 # [Collectez des données en respectant les normes RGPD ]()
 ## Problématique:  Aider l'entreprise DEV IMMEDIAT à mettre à jour sa base de données clients afin de ne plus être sanctionner par la CNIL. Faire des recommandations sur le traitement de données
  
 <p align = "center">
- <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
+ <img width="1000" height="300" src = "https://[www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11](https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/rgpd_4_etapes.jpg)"/>
 </p>
 
 ## Objectif: 
@@ -119,7 +120,9 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
 > [!NOTE]
-> Vous pouvez consulter le fichier excel de ce projet via ce lien:
+> Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
+>
+> ## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
 ## Problématique: Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
