@@ -150,7 +150,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL
 
 <!-- https://www.mep-fr.org/wp-content/thumbnails/uploads/2020/12/01-librairie-mep-vincent-leroux-tt-width-1000-height-665-bgcolor-ffffff-lazyload-1.jpg -->
 <p align = "center">
- <img width="1000" height="300" src = ""/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Optimisez-la-gestion-du-stock-dune-boutique/screenshot_openclassrooms.com%20(2).png"/>
 </p>
 
 ## Objectif: 
@@ -182,7 +182,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 
 <p align = "center">
- <img width="1000" height="300" src = ""/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20PowerBi%20pour%20visualiser%20l'avancement%20%20des%20projets/screenshot_openclassrooms.com.png"/>
 </p>
 
 ## Objectif: 
@@ -207,7 +207,7 @@ Excel, PowerBi, Dax, PowerQuerry,
 # [Prédiction de la note d'une application PlayStore (Projet_Personnel)]()
 ## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
- <img width="1000" height="300" src = "https://tse2.mm.bing.net/th?id=OIP.b9gey54oUed6ehNgaJ2pUAAAAA&pid=Api&P=0&h=180"/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024/screenshot_openclassrooms.com%20(1).png"/>
 </p>
 
 ## Objectif: 
