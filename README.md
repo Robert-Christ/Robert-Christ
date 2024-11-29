@@ -2,9 +2,9 @@
 
 - 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst 
-- 🎯 Actuellement 
+- 🎯 Actuellement Je suis à la recherche d'une première expérience dans le monde de la Big data. J'ai des notions de gestion et comptabilité. 
 - 👯 Je suis à la recherche 
-- 💬 Vous pouvez m'écrire sur:
+- 💬 Vous pouvez m'écrire sur: coefrobert@yahoo.fr
 - 📫 Retrouvez-moi sur: https:
 <!--
 - 🤔 I’m looking for help with ...
@@ -36,7 +36,7 @@ https://github.com/Juuutran/Juuutran
  <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Diapositive1.JPG"/>
 </p>
 
-## Objectif: 
+## Mission: 
 * Faire un rapport d'analyse sur le traitement des données marketing  ;
 * Transformer les données en informations ;
 * Visualisez les données ;
@@ -57,7 +57,7 @@ Excel, PowerPoint, PowerQuery.
 https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn%C3%A9es%20Excel
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
-## Problématique: .
+## Problématique: Aider l'entreprise à standardiser la politique de tarification des différents types de contrats afin de se distinguer de la concurrence. 
 
 <p align = "center">
  <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/16645532298674_Screenshot%202022-09-30%20at%2017.52.17.png"/>
@@ -211,8 +211,10 @@ Excel, PowerBi, Dax, PowerQuerry,
 </p>
 
 ## Objectif: 
-* Réaliser une courte analyse exploratoire.
-* Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
+* Analyser des données historiques du marché immobilier parisien
+* Entraînement de l'algorithme de regression linéaire
+* Prédiction de la valorisation future du portefeuille et présentation des résultats
+* Classication des données issues du jeu de test
 ## Compétences:
 - [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
 - [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
