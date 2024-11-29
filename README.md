@@ -204,7 +204,28 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 ## Outils utilisés:
 Excel, PowerBi, Dax, PowerQuerry, 
 
-# [Prédiction de la note d'une application PlayStore (Projet_Personnel)]()
+# [Analysez l’évolution des prix de l’immobilier avec Python ]()
+## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+<p align = "center">
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024/screenshot_openclassrooms.com%20(1).png"/>
+</p>
+
+## Objectif: 
+* Analyser des données historiques du marché immobilier parisien
+* Entraînement de l'algorithme de regression linéaire
+* Prédiction de la valorisation future du portefeuille et présentation des résultats
+* Classication des données issues du jeu de test
+## Compétences:
+- [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
+- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
+- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+## Outils utilisés:
+jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
+
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+# [Analysez l’évolution des prix de l’immobilier avec Python ]()
 ## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
  <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024/screenshot_openclassrooms.com%20(1).png"/>
@@ -229,7 +250,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 
 
-## Outils utilisés:
+
 
 
 
