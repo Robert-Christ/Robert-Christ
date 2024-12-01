@@ -228,7 +228,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 # [Créez votre portfolio de Business Intelligence Analyst]()
 ## Problématique: Créer un portfolio pour faire le résumé de ma formation.
 <p align = "center">
- <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024/screenshot_openclassrooms.com%20(1).png"/>
+ <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian/RESUME.png"/>
 </p>
 
 ## Objectif: 
@@ -250,7 +250,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien:
+> Vous pouvez consulter les dossiers de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian
+> Vous pouvez consulter le tableau de ce projet via ce lien:
 >https://public.tableau.com/app/profile/ro.cf/vizzes
 
 
