@@ -228,7 +228,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 # [Créez votre portfolio de Business Intelligence Analyst]()
 ## Problématique: Créer un portfolio pour faire le résumé de ma formation.
 <p align = "center">
- <img width="100" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian/RESUME.png"/>
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian/RESUME.png"/>
 </p>
 
 ## Objectif: 
