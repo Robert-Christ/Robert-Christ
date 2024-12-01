@@ -225,28 +225,33 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
 > https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
-# [Analysez l’évolution des prix de l’immobilier avec Python ]()
-## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
+# [Créez votre portfolio de Business Intelligence Analyst]()
+## Problématique: Créer un portfolio pour faire le résumé de ma formation.
 <p align = "center">
  <img width="1000" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024/screenshot_openclassrooms.com%20(1).png"/>
 </p>
 
 ## Objectif: 
-* Analyser des données historiques du marché immobilier parisien
-* Entraînement de l'algorithme de regression linéaire
-* Prédiction de la valorisation future du portefeuille et présentation des résultats
-* Classication des données issues du jeu de test
+* Évaluer tes compétences et rassembler tes preuves dans un tableau de bord
+* Créer un portfolio pour mettre en valeur ton travail
+* Développer le tableau de bord sur Tableau Software
+* Présenter le portfolio et le tableau de bord
+
 ## Compétences:
-- [x] Évaluer les performances d’un modèle d'apprentissage supervisé (régression et classification)
-- [x] Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
-- [x] Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
+- [x] : Présentation du Sketch du tableau de bord 
+- [x] Développer le tableau de bord sur Tableau Software
+- [x] Réaliser un portfolio pour présenter votre expérience, vos projets
+- [x] Définir les données au format Excel que tu vas utiliser pour le tableau de bord
+- [x] Préparer un mock-up du tableau de bord au format Miro, Figma ou Mural ou même des slides.
+- [x] Créer le tableau de bord de tes compétences et de tes projets réalisés au format Tableau Software
+- [x] Intégrer ce tableau de bord dans dans un portfolio
+- [x] Présenter le portfolio et le tableau de bord
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
-
+>https://public.tableau.com/app/profile/ro.cf/vizzes
 
 
 
