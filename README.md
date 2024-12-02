@@ -284,7 +284,7 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Porte
 - [x] L'émergence du projet .
 - [x] Justification du projet
 - [x] Note de Cadrage
-- [x]Réaliser le business plan détaillé
+- [x] Réaliser le business plan détaillé
 - [x] Calcul des charges et Chronogramme du projet
 ## Outils utilisés:
 Excel , Jupiter nootbook, Calculatrice, World, Power Point
