@@ -273,6 +273,7 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Porte
 * Rédiger un projet
 * Faire un Business Plan
 * Apporter des conclusions et des solutions
+* Analyse des conséquences prévisibles
 
 ## Compétences:
 - [x] Régider un projet  
@@ -284,8 +285,9 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Porte
 - [x] L'émergence du projet .
 - [x] Justification du projet
 - [x] Note de Cadrage
-- [x] Réaliser le business plan détaillé
-- [x] Calcul des charges et Chronogramme du projet
+- [x] Cahier des charges
+- [x] Modalités de mise en oeuvre du projet
+- [x] Réalisation du projet
 ## Outils utilisés:
 Excel , Jupiter nootbook, Calculatrice, World, Power Point
 
