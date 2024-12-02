@@ -259,7 +259,7 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Porte
 
 
 # Mes projets de Brevet de technicien Superieur en Management et Gestion des Unités Commerciales.
-
+Voici des projets que j'ai réalisé dans le cadre de ma formation de Brevet de Technicien Superieur. La formation « Brevet de Technicien Superieur de Management et Gestion des Unités Commerciale » est spécialisée en Management et en Gestion. 
 
 # [Projet de Developpement de l'Unité Commerciale]()
 ## Problématique: Faire diagnostic de l'unité commerciale et proposer des solutions pour résoudre les problémes rencontrés.
@@ -395,6 +395,37 @@ Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
 > [!NOTE]
 > Vous pouvez consulter la  fiche de ce projet via ce lien:
 https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
+
+
+## Mettre en place un espace commercial attractif et fonctionnel
+
+## Problématique: Mise en valeur de la nouvelle collection LOOKS SEPTEMBRE composée de 68 références durant les 2 premiéres semaines du lancement.
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Bonkers-Agencement-magasin-chaussures.jpg"/>
+</p>
+
+## Objectif: 
+* Agencer la surface de vente
+* Mettre en valeur les produits
+* Assurer la visibilité des services
+* Assurer la qualité de l information sur le lieu de vente
+
+## Compétences:
+- [x] Réorganiser les rayons 
+- [x] Exposer les produits
+- [x] Etiquetage et balisage des produits
+- [x] Réaliser les objectifs de vente
+- [x] Utiliser la Plan Merch
+- [x] Mise en place des têtes de gondoles
+- [x] Réorganiser les vitrines
+- [x] Imprimer les fiches produits
+## Outils utilisés:
+Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
+
+> [!NOTE]
+> Vous pouvez consulter la  fiche de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
+
 
 
 
