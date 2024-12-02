@@ -292,7 +292,7 @@ Excel , Jupiter nootbook, Calculatrice, World, Power Point
 > [!NOTE]
 > Vous pouvez consulter les dossiers de ce projet via ce lien:
 > (https://github.com/Robert-Christ/Robert-Christ/tree/main/PDUC)
-> Vous pouvez consulter le tableau de ce projet via ce lien:
+> Vous pouvez consulter les données de ce projet via ce lien:
 >(https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/PDUC%20.pdf)
 > https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/modele%20gestion%20des%20risques.pdf
 
