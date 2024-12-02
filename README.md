@@ -224,7 +224,8 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Prediction_Application_Data_Scientist/blob/main/projet1_preprocessing.ipynb
+> https:
+
 # [Créez votre portfolio de Business Intelligence Analyst]()
 ## Problématique: Créer un portfolio pour faire le résumé de ma formation.
 <p align = "center">
@@ -260,7 +261,40 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Porte
 # Mes projets de Brevet de technicien Superieur en Management et Gestion des Unités Commerciales.
 
 
+# [Projet de Developpement de l'Unité Commerciale]()
+## Problématique: Faire diagnostic de l'unité commerciale et proposer des solutions pour résoudre les problémes rencontrés.
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/maxresdefault.jpg"/>
+</p>
 
+## Objectif: 
+* Réaliser une analyse de l'unité commerciale
+* Réaliser  un diagnostic dans le cadre de la maitrise du SWOT
+* Rédiger un projet
+* Faire un Business Plan
+* Apporter des conclusions et des solutions
+
+## Compétences:
+- [x] Régider un projet  
+- [x] Réaliser la recherche et l'exploitation d'informations necesaire à l'activité commerciale
+- [x] Analyse de l'unité commerciale sur son marché
+- [x] Analyse de l'unité commerciale sur son réseau
+- [x] Problématique et domaine de la problématique
+- [x] Analyse des projets possibles
+- [x] L'émergence du projet .
+- [x] Justification du projet
+- [x] Note de Cadrage
+- [x]Réaliser le business plan détaillé
+- [x] Calcul des charges et Chronogramme du projet
+## Outils utilisés:
+Excel , Jupiter nootbook, Calculatrice, World, Power Point
+
+> [!NOTE]
+> Vous pouvez consulter les dossiers de ce projet via ce lien:
+> (https://github.com/Robert-Christ/Robert-Christ/tree/main/PDUC)
+> Vous pouvez consulter le tableau de ce projet via ce lien:
+>(https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/PDUC%20.pdf)
+> https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/modele%20gestion%20des%20risques.pdf
 
 
 
