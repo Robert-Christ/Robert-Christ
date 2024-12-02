@@ -239,7 +239,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 * Présenter le portfolio et le tableau de bord
 
 ## Compétences:
-- [x] : Présentation du Sketch du tableau de bord 
+- [x] Présentation du Sketch du tableau de bord 
 - [x] Développer le tableau de bord sur Tableau Software
 - [x] Réaliser un portfolio pour présenter votre expérience, vos projets
 - [x] Définir les données au format Excel que tu vas utiliser pour le tableau de bord
@@ -297,6 +297,102 @@ Excel , Jupiter nootbook, Calculatrice, World, Power Point
 > Vous pouvez consulter les données de ce projet via ce lien:
 >(https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/PDUC%20.pdf)
 > https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/modele%20gestion%20des%20risques.pdf
+
+
+# [Relation client ]()
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/BTS_Negociation_et_relation_client.jpg"/>
+</p>
+## Fiche sur la Vente
+## Problématique: Vendre une paire de chaussure Matted Rossi
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/gino-rossi-chaussures-basses-matteo-mpc653-s89-e100-9900-0-noir.jpg"/>
+</p>
+
+## Objectif: 
+* Préparer l'entretien de vente
+* Etablir le contact le client
+* Satisfaire les besions du client
+* Préparer l' argumentation 
+* Conclure la vente
+
+## Compétences:
+- [x] Maitrise des étapes de la vente
+- [x] Définir la cible
+- [x] Exploitation des caractéristiques produits
+- [x] Utilisation de la Méthode CAPSONCAS
+- [x] Proposition de l'offre et traitement des objections
+- [x] Fidéliser le client
+- [x] Vente additionnelle
+- [x] Conclure la vente
+## Outils utilisés:
+Internet, Fiches techniques, Microsoft World
+
+> [!NOTE]
+> Vous pouvez consulter la fiche de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/La%20Vente.pdf
+
+
+## Dynamiser l'offre de produits et services
+## Problématique: Organiser une vente promotionnelle
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Promotion.png"/>
+</p>
+
+## Objectif: 
+* Organiser des actions de promotions de vente
+* Mettre en place la visualisation des promotions sur l'espace de vente
+* Animer l'espace de vente
+* Maintenir l'ordre
+* Réaliser l'objectif de vente
+
+## Compétences:
+- [x] Réorganiser les rayons 
+- [x] Exposer les produits
+- [x] Contacter les clients par téléphone
+- [x] Réaliser des ventes
+- [x] Gestion de forte affluence
+- [x] Fidéliser le client
+- [x] Vente additionnelle
+- [x] Conclure la vente
+- [x] Imprimer les étiquettes de promotion
+## Outils utilisés:
+Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe, Imprimante
+
+> [!NOTE]
+> Vous pouvez consulter la  fiche de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/DYNAMISER%20L%E2%80%99OFFRE%20DE%20PRODUITS%20ET%20DE%20SERVICES.pdf
+
+
+## Mettre en place un espace commercial attractif et fonctionnel
+## Problématique: Mise en valeur de la nouvelle collection LOOKS SEPTEMBRE composée de 68 références durant les 2 premiéres semaines du lancement.
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Bonkers-Agencement-magasin-chaussures.jpg"/>
+</p>
+
+## Objectif: 
+* Agencer la surface de vente
+* Mettre en valeur les produits
+* Assurer la visibilité des services
+* Assurer la qualité de l information sur le lieu de vente
+
+## Compétences:
+- [x] Réorganiser les rayons 
+- [x] Exposer les produits
+- [x] Etiquetage et balisage des produits
+- [x] Réaliser les objectifs de vente
+- [x] Utiliser la Plan Merch
+- [x] Mise en place des têtes de gondoles
+- [x] Réorganiser les vitrines
+- [x] Imprimer les fiches produits
+## Outils utilisés:
+Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
+
+> [!NOTE]
+> Vous pouvez consulter la  fiche de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
+
+
 
 
 
