@@ -303,7 +303,9 @@ Excel , Jupiter nootbook, Calculatrice, World, Power Point
 <p align = "center">
  <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/BTS_Negociation_et_relation_client.jpg"/>
 </p>
+
 ## Fiche sur la Vente
+
 ## Problématique: Vendre une paire de chaussure Matted Rossi
 <p align = "center">
  <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/gino-rossi-chaussures-basses-matteo-mpc653-s89-e100-9900-0-noir.jpg"/>
@@ -334,6 +336,7 @@ https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/La%20Vente.pdf
 
 
 ## Dynamiser l'offre de produits et services
+
 ## Problématique: Organiser une vente promotionnelle
 <p align = "center">
  <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Promotion.png"/>
@@ -365,6 +368,7 @@ https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/DYNAMISER%20L%E2%8
 
 
 ## Mettre en place un espace commercial attractif et fonctionnel
+
 ## Problématique: Mise en valeur de la nouvelle collection LOOKS SEPTEMBRE composée de 68 références durant les 2 premiéres semaines du lancement.
 <p align = "center">
  <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Bonkers-Agencement-magasin-chaussures.jpg"/>
