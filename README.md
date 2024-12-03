@@ -83,9 +83,8 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn
 ## Outils utilisés:
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
-> [!NOTE]
-Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
-## Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
+> [!NOTE]Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
+> Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
 
 
 # [Collectez des données en respectant les normes RGPD ]()
@@ -112,9 +111,8 @@ Vous pouvez consulter les ressources de ce projet via ce lien: https://github.co
 ## Outils utilisés:
 Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
-> [!NOTE]
-> Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
-## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
+> [!NOTE] Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
+> Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
 ## Problématique: Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
@@ -203,8 +201,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 ## Outils utilisés:
 Excel, PowerBi, Dax, PowerQuerry, 
 
-> [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20PowerBi%20pour%20visualiser%20l'avancement%20%20des%20projets
+> [!NOTE] Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20PowerBi%20pour%20visualiser%20l'avancement%20%20des%20projets
 
 # [Analysez l’évolution des prix de l’immobilier avec Python ]()
 ## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
@@ -252,11 +249,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
-> [!NOTE]
-> Vous pouvez consulter les dossiers de ce projet via ce lien:
+> [!NOTE] Vous pouvez consulter les dossiers de ce projet via ce lien:
 https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian
-> Vous pouvez consulter le tableau de ce projet via ce lien:
->https://public.tableau.com/app/profile/ro.cf/vizzes
+> Vous pouvez consulter le tableau de ce projet via ce lien:https://public.tableau.com/app/profile/ro.cf/vizzes
 
 
 
