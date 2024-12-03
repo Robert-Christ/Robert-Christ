@@ -142,7 +142,7 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https:
+> https://github.com/Robert-Christ/Robert-Christ/tree/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20SQL%20pour%20suivre%20la%20satisfaction%20client
 
 # [Optimiser la gestion de stock d'une boutique en nettoyant ses données]()
 ## Problématique: Rapprocher des fichiers afin de créer un fichier unique afin d'analyser les données marketing de la boutique de vin. Faire l'analyse univariée des données marketing. Générer des graphes lisibles pour aider à la prise de décision
@@ -174,7 +174,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https:
+> https://github.com/Robert-Christ/Robert-Christ/tree/main/Optimisez-la-gestion-du-stock-dune-boutique
 > 
 # [Créer un tableau de dynamique avec Power Bi pour visualiser l'avancement de projets]()
 ## Problématique: Faciliciter le suivis des différents projets en traitant les données selon le Canevas Strategy. Rendre les chiffres clés visibles afin de premettre le bon suivis des projets. 
@@ -203,6 +203,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 ## Outils utilisés:
 Excel, PowerBi, Dax, PowerQuerry, 
 
+> [!NOTE]
+> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20PowerBi%20pour%20visualiser%20l'avancement%20%20des%20projets
+
 # [Analysez l’évolution des prix de l’immobilier avec Python ]()
 ## Problématique: Mettre en place une modélisation capable de prédire une application gratuite ou payante pour les utilisateurs de playstore.
 <p align = "center">
@@ -223,7 +226,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https:
+> https://github.com/Robert-Christ/Robert-Christ/tree/main/Analysez%20l'%C3%A9volution%20des%20prix%20de%20l'immobilier%20avec%20Python_%20Fevier%202024
 
 # [Créez votre portfolio de Business Intelligence Analyst]()
 ## Problématique: Créer un portfolio pour faire le résumé de ma formation.
