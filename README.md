@@ -83,8 +83,10 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn
 ## Outils utilisés:
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
-> [!NOTE]Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
-> Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
+> [!NOTE]
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
+## Autres données du fichier 
+(https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
 
 
 # [Collectez des données en respectant les normes RGPD ]()
@@ -111,8 +113,9 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 ## Outils utilisés:
 Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
-> [!NOTE] Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
-> Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
+> [!NOTE]
+> Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
+## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
 ## Problématique: Interroger le fichier de retour client et aider le service client à comprendre le comportement des clients. Calculer le net scrore client et faire des recommandations pour améliorer l'expérience client 
@@ -249,9 +252,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithme
 ## Outils utilisés:
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, algorithmes de machine learning, métriques d'évaluations
 
-> [!NOTE] Vous pouvez consulter les dossiers de ce projet via ce lien:
-https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian
-> Vous pouvez consulter le tableau de ce projet via ce lien:https://public.tableau.com/app/profile/ro.cf/vizzes
+> [!NOTE]
+> Vous pouvez consulter les dossiers de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/tree/main/Cr%C3%A9er%20un%20Portefolio/Creez%20votre%20portfolio%20de%20Business%20Intelligence%20Analyste_%20Coefe%20Christian
+> Vous pouvez consulter le tableau de ce projet via ce lien: https://public.tableau.com/app/profile/ro.cf/vizzes
 
 
 
@@ -289,11 +292,7 @@ Voici des projets que j'ai réalisé dans le cadre de ma formation de Brevet de 
 Excel , Jupiter nootbook, Calculatrice, World, Power Point
 
 > [!NOTE]
-> Vous pouvez consulter les dossiers de ce projet via ce lien:
-> (https://github.com/Robert-Christ/Robert-Christ/tree/main/PDUC)
-> Vous pouvez consulter les données de ce projet via ce lien:
->(https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/PDUC%20.pdf)
-> https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/modele%20gestion%20des%20risques.pdf
+> Vous pouvez consulter les dossiers de ce projet via ce lien:(https://github.com/Robert-Christ/Robert-Christ/tree/main/PDUC)
 
 
 # [Gestion de la Relation client ]()
@@ -328,8 +327,7 @@ Excel , Jupiter nootbook, Calculatrice, World, Power Point
 Internet, Fiches techniques, Microsoft World
 
 > [!NOTE]
-> Vous pouvez consulter la fiche de ce projet via ce lien:
-https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/La%20Vente.pdf
+> Vous pouvez consulter la fiche de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/La%20Vente.pdf
 
 
 ## Dynamiser l'offre de produits et services
@@ -360,8 +358,7 @@ https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/La%20Vente.pdf
 Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe, Imprimante
 
 > [!NOTE]
-> Vous pouvez consulter la  fiche de ce projet via ce lien:
-https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/DYNAMISER%20L%E2%80%99OFFRE%20DE%20PRODUITS%20ET%20DE%20SERVICES.pdf
+> Vous pouvez consulter la  fiche de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/DYNAMISER%20L%E2%80%99OFFRE%20DE%20PRODUITS%20ET%20DE%20SERVICES.pdf
 
 
 ## Mettre en place un espace commercial attractif et fonctionnel
@@ -390,8 +387,7 @@ https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/DYNAMISER%20L%E2%8
 Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
 
 > [!NOTE]
-> Vous pouvez consulter la  fiche de ce projet via ce lien:
-https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
+> Vous pouvez consulter la  fiche de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
 
 
 ## Rechercher et exploiter l'information necessaire à l'activité commerciale
