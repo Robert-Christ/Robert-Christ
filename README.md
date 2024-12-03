@@ -84,7 +84,7 @@ https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn
 Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
+Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
 ## Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
 
 
