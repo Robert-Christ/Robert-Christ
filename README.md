@@ -4,7 +4,7 @@
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst 
 - 🎯 Actuellement Je suis à la recherche d'une première expérience dans le monde de la Big data. J'ai des notions de gestion et comptabilité. 
 - 👯 Je suis à la recherche 
-- 💬 Vous pouvez m'écrire sur: coefrobert@yahoo.fr
+- 💬 Vous pouvez m'écrire sur: 
 - 📫 Retrouvez-moi sur: https:
 <!--
 - 🤔 I’m looking for help with ...
