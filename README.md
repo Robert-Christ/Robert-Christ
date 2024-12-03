@@ -52,8 +52,8 @@ https://github.com/Juuutran/Juuutran
 Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisez%20les%20donn%C3%A9es%20Excel/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf
-> ## Les autres fichiers qui composent le projet
+> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisez%20les%20donn%C3%A9es%20Excel/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pd
+## Les autres fichiers qui composent le projet
 https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn%C3%A9es%20Excel
 
 # [Requêtez une base de données avec SQL]//(CAS DAT'ASSUR))
@@ -85,7 +85,7 @@ Excel,Langage SQL, PowerPoint, MYSQL, PowerQUERY.
 
 > [!NOTE]
 > Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Requetez%20une%20base%20SQL%2006-2023/La%20liste%20compl%C3%A8te%20des%20analyses%20avec%20les%20r%C3%A9sultats%20associ%C3%A9s_Juin2023.pdf
->## Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
+## Autres données du fichier (https://github.com/Robert-Christ/Robert-Christ/tree/main/Requetez%20une%20base%20SQL%2006-2023)
 
 
 # [Collectez des données en respectant les normes RGPD ]()
@@ -114,7 +114,6 @@ Excel, PowerQuery, Powerpoint, SQL, MySQL, Documentation CNIL
 
 > [!NOTE]
 > Vous pouvez consulter le fichier excel de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Collecter%20les%20donn%C3%A9es%20en%20respectant%20le%20RGPD/Dossier_fichier_donn%C3%A9es_Ao%C3%BBt%202023.csv
->
 ## Autres fichiers: https://github.com/Robert-Christ/Robert-Christ/tree/main/Collecter%20les%20données%20en%20respectant%20le%20RGPD
 
 # [Interrogez une base de données pour suivre la satisfaction client ]()
@@ -299,7 +298,7 @@ Excel , Jupiter nootbook, Calculatrice, World, Power Point
 > https://github.com/Robert-Christ/Robert-Christ/blob/main/PDUC/modele%20gestion%20des%20risques.pdf
 
 
-# [Relation client ]()
+# [Gestion de la Relation client ]()
 <p align = "center">
  <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/BTS_Negociation_et_relation_client.jpg"/>
 </p>
@@ -397,34 +396,61 @@ Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
 https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
 
 
-## Mettre en place un espace commercial attractif et fonctionnel
+## Rechercher et exploiter l'information necessaire à l'activité commerciale
 
-## Problématique: Mise en valeur de la nouvelle collection LOOKS SEPTEMBRE composée de 68 références durant les 2 premiéres semaines du lancement.
+## Problématique: Réaliser une enquête de satisfaction afin de comprendre les attentes des clients. Implimenter des solutions pratiques.
 <p align = "center">
- <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Bonkers-Agencement-magasin-chaussures.jpg"/>
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/enquete-de-satisfaction-1.jpg"/>
 </p>
 
 ## Objectif: 
-* Agencer la surface de vente
-* Mettre en valeur les produits
-* Assurer la visibilité des services
-* Assurer la qualité de l information sur le lieu de vente
+* Assurer la veille commerciale
+* Réaliser et exploiter des études commerciales
+* Enrichir et exploiter le systéme d'information commercial
+* Intégrer les technologies de l'information dans son activité 
 
 ## Compétences:
-- [x] Réorganiser les rayons 
-- [x] Exposer les produits
-- [x] Etiquetage et balisage des produits
-- [x] Réaliser les objectifs de vente
-- [x] Utiliser la Plan Merch
-- [x] Mise en place des têtes de gondoles
-- [x] Réorganiser les vitrines
-- [x] Imprimer les fiches produits
+- [x] Recherche d'exemples de questionnaire 
+- [x] Elaboration du questionnaire 
+- [x] Collecter des informations auprés des superieurs
+- [x] Collecter des informations auprés des autres magasin
+- [x] Administrer le questionnaire aux clients
+- [x] Faire un diagnostic et proposer des solutions
+- [x] Dépouiller et publier les résultats
 ## Outils utilisés:
-Ordinateur, Fiches techniques, Microsoft World, Plan Merch, Adobe
+Ordinateur, Sphinx, Microsoft World, Tablette, 
 
 > [!NOTE]
 > Vous pouvez consulter la  fiche de ce projet via ce lien:
-https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/Mettre%20en%20place%20un%20espace%20commercial%20fonctionnel%20.pdf
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/RECHERCHER%20ET%20EXPLOITER%20L%E2%80%99INFORMATION%20NECESSAIRE%20A%20L'ACTIVITE%20COMMERCIALE.pdf
+
+
+## Assurer la qualité du service à la clientéle 
+
+## Problématique: Gestion d'un retour de produit. Un client souhaite retourner une paire de chaussure
+<p align = "center">
+ <img width="300" height="300" src = "https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/images.jpg"/>
+</p>
+
+## Objectif: 
+* Acceuillir, informer et conseiller
+* Gérer les insatisfactions et les suggestions de la clientèle 
+* Suivre la quelité des prestations
+* Fidéliser et satisfaire le client
+
+## Compétences:
+- [x] Evaluer la qualité d'un produit 
+- [x] Procédure de retour
+- [x] Procédure d'échange et de remboursement 
+- [x] Phase de suivi du produit retourné
+- [x] Trouver des solutions pratiques pour le client
+
+## Outils utilisés:
+Ordinateur 
+
+> [!NOTE]
+> Vous pouvez consulter la  fiche de ce projet via ce lien:
+https://github.com/Robert-Christ/Robert-Christ/blob/main/ACRC/RECHERCHER%20ET%20EXPLOITER%20L%E2%80%99INFORMATION%20NECESSAIRE%20A%20L'ACTIVITE%20COMMERCIALE.pdf
 
 
 
