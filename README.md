@@ -52,7 +52,7 @@ https://github.com/Juuutran/Juuutran
 Excel, PowerPoint, PowerQuery.
 
 > [!NOTE]
-> Vous pouvez consulter les ressources de ce projet via ce lien: [VISUALISEZ LES DONNEES AVEC EXCEl Rapport] https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisez%20les%20donn%C3%A9es%20Excel/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pd
+> Vous pouvez consulter les ressources de ce projet via ce lien: https://github.com/Robert-Christ/Robert-Christ/blob/main/Visualisez%20les%20donn%C3%A9es%20Excel/VISUALISEZ%20LES%20DONNEES%20AVEC%20EXCEL.pdf
 ## Les autres fichiers qui composent le projet
 https://github.com/Robert-Christ/Robert-Christ/tree/main/Visualisez%20les%20donn%C3%A9es%20Excel
 
