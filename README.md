@@ -1,16 +1,13 @@
 # Salut je suis Christian !! 👋
 
-- 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
-- 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst 
-- 🎯 Actuellement Je suis à la recherche d'une première expérience dans le monde de la Big data. J'ai des notions de gestion et comptabilité. 
-- 👯 Je suis à la recherche 
-- 💬 Vous pouvez m'écrire sur: 
-- 📫 Retrouvez-moi sur: https:
-<!--
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+- 💬 : Je vous présente mon parcours de formation. 
+- 🔭 Data Analyste & Business Analyst | Python | SQL | Data Visualisation & Machine Learning
+- 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst
+- 🔭 Brevet de Technicien Superieur dans le Management et la Gestion des unités commerciales
+- 🌱 Titulaire d'un Bac + 2 
+- 🎯 Actuellement Je suis à la recherche d'un contrat CDI ou CDD dans le domaine de la vente et du commerce.
+
+  
 
 # Mes projets Business Analyst avec OpenClassrooms
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Business Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau Desktop, PowerBI, Pandas, Numpy, Matplotlib, Seaborn.
