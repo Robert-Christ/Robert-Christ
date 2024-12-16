@@ -5,7 +5,7 @@
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst
 - 🔭 Brevet de Technicien Superieur dans le Management et la Gestion des unités commerciales
 - 🌱 Titulaire d'un Bac + 2 
-- 🎯 Actuellement Je suis à la recherche d'un contrat CDI ou CDD dans tout les domaines.
+- 🎯 Actuellement Je suis à la recherche d'un contrat CDI ou CDD.
 
   
 
