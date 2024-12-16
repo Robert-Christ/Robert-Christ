@@ -5,16 +5,16 @@
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst
 - 🔭 Brevet de Technicien Superieur dans le Management et la Gestion des unités commerciales
 - 🌱 Titulaire d'un Bac + 2 
-- 🎯 Actuellement Je suis à la recherche d'un contrat CDI ou CDD dans le domaine de la vente et du commerce.
+- 🎯 Actuellement Je suis à la recherche d'un contrat CDI ou CDD dans tout les domaines.
 
   
 
 # Mes projets Business Analyst avec OpenClassrooms
-Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Business Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau Desktop, PowerBI, Pandas, Numpy, Matplotlib, Seaborn.
+Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Business Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec le pôle emploi et la région îles de France. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau Desktop, PowerBI, Pandas, Numpy, Matplotlib, Seaborn.
 
 Vous trouverez ci dessous l'intitulé des différents projets avec des projets personnels réalisés et les compétences acquises pour chacun d'eux.
 > [!NOTE]
-> Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
+> Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst.
 <!--
 https://www.youtube.com/watch?v=MFPyVDSZVK0&t=100s
 https://www.youtube.com/watch?v=vD-t_IohSbo&t=612s
